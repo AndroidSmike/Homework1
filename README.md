@@ -8,16 +8,16 @@
 ![Terraform](/terraform.png)
 
 **Bash**
-![Bash](/dz01/01/bash.png)
+![Bash](/bash.png)
 
 **Markdown**
-![Markdown](/dz01/01/markdown.png)
+![Markdown](/markdown.png)
 
 **Yaml**
-![Yaml](/dz01/01/yaml.png)
+![Yaml](/yaml.png)
 
 **Jsonnet**
-![Jsonnet](/dz01/01/jsonnet.png)
+![Jsonnet](/jsonnet.png)
 
 Задача 2
 --------
