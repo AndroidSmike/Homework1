@@ -17,7 +17,7 @@
 ![Yaml](/yaml.png)
 
 **Jsonnet**
-![Jsonnet](/jsonnet.png)
+![Jsonnet](/Jsonnet.png)
 
 Задача 2
 --------
