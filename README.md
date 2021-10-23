@@ -4,7 +4,7 @@
 
 Задача 1
 --------
-**Terraform**
+
 ![Terraform](/terraform.png)
 
 **Bash**
